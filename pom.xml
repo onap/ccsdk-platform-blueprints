@@ -8,7 +8,7 @@
     <artifactId>platform-blueprints</artifactId>
     <version>0.1.0-SNAPSHOT</version>
 
-    <name>PlatformBlueprints</name>
+    <name>ccsdk-platform-blueprints</name>
     <description>CCSD Platform Blueprints</description>
 
 </project>
