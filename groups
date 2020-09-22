@@ -2,4 +2,3 @@
 #
 daebbf523be390041a1a9c0e340a6d833aae5043                                                  	GitHub Replication
 dfdba2f0f2be9c152dce0150c15ad9b47d58d0bc                                                  	saml/onap-gerrit-ccsdk-platform-blueprints-committers
-ldap:cn=onap-gerrit-ccsdk-platform-blueprints-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-ccsdk-platform-blueprints-committers
